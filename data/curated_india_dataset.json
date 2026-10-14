@@ -1,0 +1,1910 @@
+{
+  "circuits": [
+    {
+      "circuit_id": "IN-RAJ-01",
+      "circuit_name": "Mewar & Marwar Heritage Trail",
+      "region": "Rajasthan",
+      "ideal_duration_days": [
+        5,
+        8
+      ],
+      "best_months": [
+        "October",
+        "November",
+        "December",
+        "January",
+        "February",
+        "March"
+      ],
+      "hubs": [
+        "Udaipur",
+        "Jawai",
+        "Jodhpur"
+      ],
+      "transfer_logistics": {
+        "Udaipur_to_Jawai": "Scenic 3-hour private countryside drive via Ranakpur 1444-pillar Jain Temple",
+        "Jawai_to_Jodhpur": "2.5-hour highway drive passing through Pali artisan rug weaving villages"
+      },
+      "tagline": "Restored lake havelis, wild granite hills with leopard trackers, and the indigo alleys of Jodhpur."
+    },
+    {
+      "circuit_id": "IN-KER-01",
+      "circuit_name": "Malabar & Backwater Slow Living",
+      "region": "Kerala",
+      "ideal_duration_days": [
+        5,
+        8
+      ],
+      "best_months": [
+        "September",
+        "October",
+        "November",
+        "December",
+        "January",
+        "February"
+      ],
+      "hubs": [
+        "Fort Kochi",
+        "Munnar",
+        "Marari"
+      ],
+      "transfer_logistics": {
+        "Kochi_to_Munnar": "3.5-hour climb through Cheeyappara waterfalls and high cardamom hills",
+        "Munnar_to_Marari": "4-hour scenic descent to quiet coastal backwater village"
+      },
+      "tagline": "Colonial spice docks, mist-covered colonial tea plantations, and quiet palm-fringed coastlines."
+    },
+    {
+      "circuit_id": "IN-HIM-01",
+      "circuit_name": "Tirthan & Kullu Alpine Retreat",
+      "region": "Himachal Pradesh",
+      "ideal_duration_days": [
+        4,
+        7
+      ],
+      "best_months": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "September",
+        "October",
+        "November"
+      ],
+      "hubs": [
+        "Jibhi",
+        "Tirthan Valley",
+        "Naggar"
+      ],
+      "transfer_logistics": {
+        "Jibhi_to_Tirthan": "45-minute river drive along crystal clear Tirthan river",
+        "Tirthan_to_Naggar": "2.5-hour mountain drive through Aut tunnel and upper Beas valley"
+      },
+      "tagline": "Himalayan river cottages reached by cable pulleys, deodar canopy walks, and Kathkuni wooden architecture."
+    },
+    {
+      "circuit_id": "IN-GOA-01",
+      "circuit_name": "The Susegad Hinterland & Latin Quarter",
+      "region": "Goa",
+      "ideal_duration_days": [
+        4,
+        6
+      ],
+      "best_months": [
+        "October",
+        "November",
+        "December",
+        "January",
+        "February",
+        "March"
+      ],
+      "hubs": [
+        "Fontainhas",
+        "Aldona",
+        "Divar Island"
+      ],
+      "transfer_logistics": {
+        "Panjim_to_Aldona": "35-minute countryside drive through lush Portuguese chapels and paddy fields",
+        "Aldona_to_Divar": "15-minute village drive + scenic 5-minute river car ferry across Mandovi"
+      },
+      "tagline": "Pastel Portuguese mansions, river kayaking through mangroves, artisanal bakeries, and slow living."
+    },
+    {
+      "circuit_id": "IN-MEG-01",
+      "circuit_name": "Abode of Clouds & Living Roots",
+      "region": "Meghalaya",
+      "ideal_duration_days": [
+        5,
+        7
+      ],
+      "best_months": [
+        "October",
+        "November",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "hubs": [
+        "Shillong",
+        "Cherrapunjee",
+        "Mawlynnong"
+      ],
+      "transfer_logistics": {
+        "Shillong_to_Cherrapunjee": "1.5-hour dramatic cliffside drive frequently wrapped in valley mist",
+        "Cherrapunjee_to_Mawlynnong": "2-hour drive along the southern Bangladesh plains border"
+      },
+      "tagline": "Sacred cedar groves, living root bridge treks, clear river canyoning, and intimate Khasi homestays."
+    },
+    {
+      "circuit_id": "IN-KAS-01",
+      "circuit_name": "Kashmir Valley & Cedar Waters",
+      "region": "Kashmir",
+      "ideal_duration_days": [
+        5,
+        8
+      ],
+      "best_months": [
+        "April",
+        "May",
+        "June",
+        "September",
+        "October",
+        "December",
+        "January"
+      ],
+      "hubs": [
+        "Srinagar",
+        "Pahalgam",
+        "Gulmarg"
+      ],
+      "transfer_logistics": {
+        "Srinagar_to_Pahalgam": "2.5-hour picturesque drive along Lidder river through saffron fields of Pampore",
+        "Pahalgam_to_Gulmarg": "3.5-hour journey skirting the Pir Panjal mountain range"
+      },
+      "tagline": "Hand-carved cedar houseboats on tranquil Nigeen Lake, pine chalets along the Lidder, and saffron meadow trails."
+    },
+    {
+      "circuit_id": "IN-LAD-01",
+      "circuit_name": "High Altitude Monasteries & Stargazing",
+      "region": "Ladakh",
+      "ideal_duration_days": [
+        6,
+        9
+      ],
+      "best_months": [
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "hubs": [
+        "Leh",
+        "Nubra Valley",
+        "Pangong Tso"
+      ],
+      "transfer_logistics": {
+        "Leh_to_Nubra": "4.5-hour high mountain pass crossing over Khardung La (17,982 ft)",
+        "Nubra_to_Pangong": "5.5-hour off-road desert drive along the roaring Shyok river"
+      },
+      "tagline": "Mud-brick solar eco-lodges, morning Buddhist prayer chants, double-humped camel dunes, and Milky Way night skies."
+    },
+    {
+      "circuit_id": "IN-BOM-01",
+      "circuit_name": "Bombay Art Deco & Konkan Coastal Trail",
+      "region": "Maharashtra / Mumbai",
+      "ideal_duration_days": [
+        3,
+        6
+      ],
+      "best_months": [
+        "October",
+        "November",
+        "December",
+        "January",
+        "February",
+        "March"
+      ],
+      "hubs": [
+        "Mumbai",
+        "Alibaug"
+      ],
+      "transfer_logistics": {
+        "Mumbai_to_Alibaug": "Scenic 45-minute private catamaran or speedboat from Gateway of India across Mumbai harbor to Mandwa jetty"
+      },
+      "tagline": "Colonial heritage townhouses, UNESCO Art Deco seafront promenades, historic Parsi cafes, and quiet coastal coconut estates."
+    }
+  ],
+  "stays": [
+    {
+      "id": "stay_raj_01",
+      "name": "Amet Haveli",
+      "circuit_id": "IN-RAJ-01",
+      "destination": "Udaipur",
+      "neighborhood": "Hanuman Ghat",
+      "price_tier": "premium_charm",
+      "approx_price_per_night_inr": 13500,
+      "vibe_tags": [
+        "heritage_royal",
+        "slow_coastal"
+      ],
+      "stay_type": "Restored 18th-century Rajput Haveli",
+      "why_special": "Stone arches right on Lake Pichola with tranquil courtyard and unobstructed views of City Palace across the water.",
+      "best_for": [
+        "couples",
+        "honeymoon",
+        "architecture-lovers"
+      ],
+      "highlight_amenities": [
+        "Direct Lakefront Terrace",
+        "Ambrai Dining",
+        "Courtyard Plunge Pool"
+      ],
+      "booking_advice": "Request lake-facing heritage suite on the upper level for maximum privacy.",
+      "image_url": "https://images.unsplash.com/photo-1599661046827-dacff0c0f09a?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹12,500 - ₹15,000 / night",
+      "food_available": true,
+      "food_details": "Fine-dining Ambrai lakeside restaurant serving royal Mewari cuisine",
+      "breakfast_available": true,
+      "breakfast_details": "Buffet breakfast on lakeside terrace included",
+      "wifi_available": true,
+      "wifi_details": "High-speed fiber Wi-Fi in rooms and courtyard"
+    },
+    {
+      "id": "stay_raj_02",
+      "name": "SajjanNiwas Heritage Boutique",
+      "circuit_id": "IN-RAJ-01",
+      "destination": "Udaipur",
+      "neighborhood": "Old City Lanes",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 5500,
+      "vibe_tags": [
+        "heritage_royal",
+        "bohemian_artistic"
+      ],
+      "stay_type": "Traditional Mewari Townhouse",
+      "why_special": "Intimate 8-room family-run haveli with hand-painted fresco ceilings and rooftop chai nook.",
+      "best_for": [
+        "solo",
+        "couples",
+        "culture-enthusiasts"
+      ],
+      "highlight_amenities": [
+        "Rooftop Reading Lounge",
+        "Homecooked Rajasthani Breakfast",
+        "Library"
+      ],
+      "booking_advice": "Ask the host for their private walking map of Udaipur miniature painting studios.",
+      "image_url": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹4,800 - ₹6,000 / night",
+      "food_available": true,
+      "food_details": "Authentic Rajasthani thali prepared by in-house royal kitchen",
+      "breakfast_available": true,
+      "breakfast_details": "Fresh poori-bhaji, parathas & fruit breakfast included",
+      "wifi_available": true,
+      "wifi_details": "High-speed Wi-Fi in all rooms"
+    },
+    {
+      "id": "stay_raj_03",
+      "name": "Bera Safari Retreat",
+      "circuit_id": "IN-RAJ-01",
+      "destination": "Jawai",
+      "neighborhood": "Bera Granite Hills",
+      "price_tier": "luxury_heritage",
+      "approx_price_per_night_inr": 24000,
+      "vibe_tags": [
+        "forest_wildlife",
+        "offbeat_cultural"
+      ],
+      "stay_type": "Wilderness Stone Cottage",
+      "why_special": "Nestled among ancient volcanic boulder hills where wild leopards live peacefully alongside Rabari shepherds.",
+      "best_for": [
+        "wildlife-lovers",
+        "couples",
+        "photographers"
+      ],
+      "highlight_amenities": [
+        "Private Open 4x4 Safari",
+        "Bush Dinners Under Stars",
+        "Naturalist Guides"
+      ],
+      "booking_advice": "Book at least 2 nights to experience both sunrise and sunset hill tracking.",
+      "image_url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹22,000 - ₹26,000 / night",
+      "food_available": true,
+      "food_details": "Full-board gourmet bush dinners under starlit granite hills",
+      "breakfast_available": true,
+      "breakfast_details": "Organic farm breakfast & morning bush tea included",
+      "wifi_available": true,
+      "wifi_details": "Satellite Wi-Fi in main safari lounge"
+    },
+    {
+      "id": "stay_raj_04",
+      "name": "The Stepwell House (RAAS Partner)",
+      "circuit_id": "IN-RAJ-01",
+      "destination": "Jodhpur",
+      "neighborhood": "Toorji Ka Jhalra",
+      "price_tier": "premium_charm",
+      "approx_price_per_night_inr": 12000,
+      "vibe_tags": [
+        "heritage_royal",
+        "bohemian_artistic"
+      ],
+      "stay_type": "Red Sandstone Urban Retreat",
+      "why_special": "Overlooks the 1740s carved stepwell with a front-row terrace view of Mehrangarh Fort illuminated at night.",
+      "best_for": [
+        "couples",
+        "design-lovers",
+        "foodies"
+      ],
+      "highlight_amenities": [
+        "Fort View Terrace",
+        "Stepwell Cafe Access",
+        "Artisanal Boutique"
+      ],
+      "booking_advice": "Evenings are magical on the terrace; book dinner overlooking the glowing fort.",
+      "image_url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹4,200 - ₹5,000 / night",
+      "food_available": true,
+      "food_details": "Traditional Rabari campfire cooking with Bajra rotla & garlic chutney",
+      "breakfast_available": true,
+      "breakfast_details": "Fresh cow milk chai & hot parathas breakfast included",
+      "wifi_available": true,
+      "wifi_details": "Wi-Fi available at main shepherd homestead"
+    },
+    {
+      "id": "stay_raj_05",
+      "name": "Haveli Inn Pal",
+      "circuit_id": "IN-RAJ-01",
+      "destination": "Jodhpur",
+      "neighborhood": "Gulab Sagar",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 4800,
+      "vibe_tags": [
+        "heritage_royal"
+      ],
+      "stay_type": "19th Century Noble Haveli",
+      "why_special": "Built directly on the edge of Gulab Sagar lake, stone jharokhas with antique brass beds and cool marble floors.",
+      "best_for": [
+        "solo",
+        "budget-travelers",
+        "history-buffs"
+      ],
+      "highlight_amenities": [
+        "Lake-view Jharokhas",
+        "Traditional Thali Dining",
+        "Courtyard"
+      ],
+      "booking_advice": "Room 10 has the deepest window-seat for reading in the afternoon breeze.",
+      "image_url": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹4,200 - ₹5,500 / night",
+      "food_available": true,
+      "food_details": "Rooftop dining overlooking Mehrangarh Fort with Lal Maas",
+      "breakfast_available": true,
+      "breakfast_details": "Traditional breakfast with Jodhpur tea included",
+      "wifi_available": true,
+      "wifi_details": "Free Wi-Fi in rooms and terrace"
+    },
+    {
+      "id": "stay_ker_01",
+      "name": "Old Harbour Hotel",
+      "circuit_id": "IN-KER-01",
+      "destination": "Fort Kochi",
+      "neighborhood": "Tower Road",
+      "price_tier": "premium_charm",
+      "approx_price_per_night_inr": 14000,
+      "vibe_tags": [
+        "slow_coastal",
+        "heritage_royal"
+      ],
+      "stay_type": "300-year-old Dutch Colonial Mansion",
+      "why_special": "High timber ceilings, Dutch-Portuguese architecture, lush inner garden with koi pond and fresh seafood grill.",
+      "best_for": [
+        "couples",
+        "history-buffs",
+        "honeymoon"
+      ],
+      "highlight_amenities": [
+        "Garden Swimming Pool",
+        "Ayurvedic Massage",
+        "Live Classical Music Nights"
+      ],
+      "booking_advice": "Garden view cottage rooms offer complete seclusion from the historic street.",
+      "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹13,000 - ₹15,500 / night",
+      "food_available": true,
+      "food_details": "Garden seafood grill with fresh catch from Chinese nets",
+      "breakfast_available": true,
+      "breakfast_details": "Dutch-colonial breakfast with tropical fruits included",
+      "wifi_available": true,
+      "wifi_details": "High-speed Wi-Fi in heritage rooms & pool area"
+    },
+    {
+      "id": "stay_ker_02",
+      "name": "Windermere Estate",
+      "circuit_id": "IN-KER-01",
+      "destination": "Munnar",
+      "neighborhood": "Pothamedu Hill",
+      "price_tier": "premium_charm",
+      "approx_price_per_night_inr": 11500,
+      "vibe_tags": [
+        "mountain_serene",
+        "slow_coastal"
+      ],
+      "stay_type": "Colonial Cardamom & Tea Plantation Home",
+      "why_special": "Set atop a private 60-acre cardamom and coffee plantation with mist rolling into your veranda every dawn.",
+      "best_for": [
+        "couples",
+        "nature-walkers",
+        "birdwatchers"
+      ],
+      "highlight_amenities": [
+        "Private Plantation Trail",
+        "Sunset Point Gazebo",
+        "Estate Dining"
+      ],
+      "booking_advice": "Wake up at 6:00 AM for the private estate birdwalk guided by the resident naturalist.",
+      "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹10,500 - ₹13,000 / night",
+      "food_available": true,
+      "food_details": "The Barn dining room with cardamon tea & Kerala spices",
+      "breakfast_available": true,
+      "breakfast_details": "Estate breakfast with hot Appams & fresh preserves included",
+      "wifi_available": true,
+      "wifi_details": "Wi-Fi available in clubhouse and plantation chalets"
+    },
+    {
+      "id": "stay_ker_03",
+      "name": "Marari Dream Thatch Villas",
+      "circuit_id": "IN-KER-01",
+      "destination": "Marari",
+      "neighborhood": "Pollathai Beach",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 6200,
+      "vibe_tags": [
+        "slow_coastal",
+        "bohemian_artistic"
+      ],
+      "stay_type": "Open-air Coconut Thatch Eco-Villa",
+      "why_special": "Direct 2-minute barefoot stroll to an uncrowded golden sand beach where traditional fishermen haul their wooden boats.",
+      "best_for": [
+        "relaxation",
+        "couples",
+        "slow-travelers"
+      ],
+      "highlight_amenities": [
+        "Hammocks Under Coconut Palms",
+        "Home-cooked Karimeen Pollichathu",
+        "Free Bicycles"
+      ],
+      "booking_advice": "Borrow the hotel bicycles in the early morning to explore the sleepy coir-weaving village lanes.",
+      "image_url": "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹5,500 - ₹7,000 / night",
+      "food_available": true,
+      "food_details": "Fresh coastal coconut curries & Karimeen fry on order",
+      "breakfast_available": true,
+      "breakfast_details": "Traditional Kerala banana leaf breakfast included",
+      "wifi_available": true,
+      "wifi_details": "Free Wi-Fi in garden lounge"
+    },
+    {
+      "id": "stay_ker_04",
+      "name": "A Beach Symphony",
+      "circuit_id": "IN-KER-01",
+      "destination": "Marari",
+      "neighborhood": "Mararikulam",
+      "price_tier": "luxury_heritage",
+      "approx_price_per_night_inr": 22000,
+      "vibe_tags": [
+        "slow_coastal"
+      ],
+      "stay_type": "Private Heritage Cottage with Plunge Pool",
+      "why_special": "Only 4 private cottages spread over 3 acres of lush seaside coconut groves, each with its own open-air courtyard plunge pool.",
+      "best_for": [
+        "honeymoon",
+        "couples",
+        "luxury-seekers"
+      ],
+      "highlight_amenities": [
+        "Private Plunge Pool",
+        "Personal Chef",
+        "Secluded Beach Gate"
+      ],
+      "booking_advice": "The Violin Cottage has the most lush private garden canopy.",
+      "image_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹20,000 - ₹24,000 / night",
+      "food_available": true,
+      "food_details": "Private villa butler service with catch-of-the-day dining",
+      "breakfast_available": true,
+      "breakfast_details": "Alfresco tropical veranda breakfast included",
+      "wifi_available": true,
+      "wifi_details": "High-speed Wi-Fi throughout villas"
+    },
+    {
+      "id": "stay_him_01",
+      "name": "Raju Cottage & Riverside Retreat",
+      "circuit_id": "IN-HIM-01",
+      "destination": "Tirthan Valley",
+      "neighborhood": "Gushaini Village",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 4800,
+      "vibe_tags": [
+        "mountain_serene",
+        "forest_wildlife"
+      ],
+      "stay_type": "Cedar Wood & River Stone Lodge",
+      "why_special": "Reached by crossing the roaring Tirthan river on a hand-cranked wooden cable trolley. Zero traffic, organic orchard meals.",
+      "best_for": [
+        "hikers",
+        "couples",
+        "solo-retreats",
+        "trout-fishing"
+      ],
+      "highlight_amenities": [
+        "River Crossing Trolley",
+        "Orchard Dining",
+        "Angling Equipment",
+        "Campfire Pits"
+      ],
+      "booking_advice": "Book months in advance; only 5 cozy rooms available.",
+      "image_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹4,200 - ₹5,200 / night",
+      "food_available": true,
+      "food_details": "All meals included: Fresh Tirthan river trout & Himachali Siddu",
+      "breakfast_available": true,
+      "breakfast_details": "Homecooked riverside breakfast with orchard jams included",
+      "wifi_available": false,
+      "wifi_details": "Digital detox (no Wi-Fi, peaceful mountain sounds)"
+    },
+    {
+      "id": "stay_him_02",
+      "name": "The Himalayan Cedar Glade",
+      "circuit_id": "IN-HIM-01",
+      "destination": "Jibhi",
+      "neighborhood": "Shoja Ridge",
+      "price_tier": "premium_charm",
+      "approx_price_per_night_inr": 8500,
+      "vibe_tags": [
+        "mountain_serene",
+        "bohemian_artistic"
+      ],
+      "stay_type": "Handcrafted Treehouse & Glass Cabin",
+      "why_special": "Perched 20 feet above ground in a deodar forest with a 180-degree glass facade facing snow-capped Jalori ridge.",
+      "best_for": [
+        "honeymoon",
+        "couples",
+        "writers"
+      ],
+      "highlight_amenities": [
+        "Wood-burning Stove (Bukhari)",
+        "Stargazing Deck",
+        "Artisanal Coffee Bar"
+      ],
+      "booking_advice": "The upper cabin with the outdoor wooden cedar tub is unmatched for winter stargazing.",
+      "image_url": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹7,800 - ₹9,500 / night",
+      "food_available": true,
+      "food_details": "Pine wood dining hall serving woodfire pizzas & Himachali curries",
+      "breakfast_available": true,
+      "breakfast_details": "Hot porridge, eggs & Himalayan honey breakfast included",
+      "wifi_available": true,
+      "wifi_details": "Fiber Wi-Fi available in pine chalets"
+    },
+    {
+      "id": "stay_him_03",
+      "name": "Naggar Heritage Kathkuni Cottage",
+      "circuit_id": "IN-HIM-01",
+      "destination": "Naggar",
+      "neighborhood": "Upper Village",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 5200,
+      "vibe_tags": [
+        "heritage_royal",
+        "mountain_serene"
+      ],
+      "stay_type": "Earthquake-proof Interlocking Timber House",
+      "why_special": "Authentic 120-year-old Kullu royal mountain residence with clay plaster walls, wooden balconies, and apple orchards.",
+      "best_for": [
+        "art-lovers",
+        "couples",
+        "architecture-enthusiasts"
+      ],
+      "highlight_amenities": [
+        "Traditional Bukhari Fireplace",
+        "Apple Orchard Lawn",
+        "Walking distance to Nicholas Roerich Gallery"
+      ],
+      "booking_advice": "Have evening herbal tea on the west-facing balcony as the sun sets over Dhauladhar peaks.",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹4,800 - ₹5,800 / night",
+      "food_available": true,
+      "food_details": "Family kitchen serving hot Kullu thali & walnut chutneys",
+      "breakfast_available": true,
+      "breakfast_details": "Fresh orchard juice & warm mountain breakfast included",
+      "wifi_available": true,
+      "wifi_details": "High-speed Wi-Fi in Kathkuni rooms"
+    },
+    {
+      "id": "stay_goa_01",
+      "name": "Mateus Boutique Hotel",
+      "circuit_id": "IN-GOA-01",
+      "destination": "Fontainhas",
+      "neighborhood": "Latin Quarter, Panjim",
+      "price_tier": "premium_charm",
+      "approx_price_per_night_inr": 8000,
+      "vibe_tags": [
+        "bohemian_artistic",
+        "heritage_royal"
+      ],
+      "stay_type": "18th-century Portuguese Townhouse",
+      "why_special": "Located in the heart of pastel-painted alleys with wrought-iron balconies, authentic azulejos tiles, and a courtyard plunge pool.",
+      "best_for": [
+        "culture-buffs",
+        "couples",
+        "art-lovers"
+      ],
+      "highlight_amenities": [
+        "Courtyard Pool",
+        "Portuguese Breakfast",
+        "Walkable to Heritage Cafes"
+      ],
+      "booking_advice": "Step out at 7:30 AM before tourists arrive for the best architectural photography.",
+      "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹7,500 - ₹9,000 / night",
+      "food_available": false,
+      "food_details": "Walkable to famed Viva Panjim & Confeitaria 31 de Janeiro",
+      "breakfast_available": true,
+      "breakfast_details": "Fresh artisan Goan bread, poee & mango jam breakfast included",
+      "wifi_available": true,
+      "wifi_details": "High-speed fiber Wi-Fi in all rooms"
+    },
+    {
+      "id": "stay_goa_02",
+      "name": "Olaulim Backyards",
+      "circuit_id": "IN-GOA-01",
+      "destination": "Aldona",
+      "neighborhood": "Olaulim Riverbank",
+      "price_tier": "premium_charm",
+      "approx_price_per_night_inr": 9500,
+      "vibe_tags": [
+        "slow_coastal",
+        "forest_wildlife"
+      ],
+      "stay_type": "Earthy Backwater Cottages",
+      "why_special": "Surrounded by swaying palms and a tranquil tributary where hornbills nest. Includes free kayaks and homemade Goan-Finnish feasts.",
+      "best_for": [
+        "slow-travelers",
+        "nature-lovers",
+        "families"
+      ],
+      "highlight_amenities": [
+        "Free Kayaks",
+        "Tropical Pool",
+        "Pet Friendly",
+        "Communal Sunset Drinks"
+      ],
+      "booking_advice": "Take the kayaks out at dawn when the water is mirror-calm and otters are sometimes spotted.",
+      "image_url": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹9,000 - ₹11,000 / night",
+      "food_available": true,
+      "food_details": "Communal open-air riverside dinners with roasted pork & curries",
+      "breakfast_available": true,
+      "breakfast_details": "Full Goan breakfast with tropical juices included",
+      "wifi_available": true,
+      "wifi_details": "Wi-Fi available in central courtyard lounge"
+    },
+    {
+      "id": "stay_goa_03",
+      "name": "Casa Divar Riverside Villa",
+      "circuit_id": "IN-GOA-01",
+      "destination": "Divar Island",
+      "neighborhood": "Piedade Village",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 5500,
+      "vibe_tags": [
+        "slow_coastal",
+        "offbeat_cultural"
+      ],
+      "stay_type": "Restored Island Estate",
+      "why_special": "Divar Island has zero traffic lights and is only accessible by ferry. Time moves at 1950s pace with church bells and paddy fields.",
+      "best_for": [
+        "peace-seekers",
+        "writers",
+        "couples"
+      ],
+      "highlight_amenities": [
+        "Veranda Facing River",
+        "Fresh Goan Poee Deliveries",
+        "Electric Bicycles"
+      ],
+      "booking_advice": "Rent an electric bicycle to ride up to Our Lady of Compassion Church at sunset.",
+      "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹5,000 - ₹6,500 / night",
+      "food_available": true,
+      "food_details": "Homecooked island seafood thalis & local feni tasting",
+      "breakfast_available": true,
+      "breakfast_details": "Traditional Goan breakfast on the veranda included",
+      "wifi_available": true,
+      "wifi_details": "High-speed Wi-Fi in all rooms"
+    },
+    {
+      "id": "stay_meg_01",
+      "name": "The Heritage Club - Tripura Castle",
+      "circuit_id": "IN-MEG-01",
+      "destination": "Shillong",
+      "neighborhood": "Cleve Colony",
+      "price_tier": "premium_charm",
+      "approx_price_per_night_inr": 9200,
+      "vibe_tags": [
+        "heritage_royal",
+        "mountain_serene"
+      ],
+      "stay_type": "Royal Summer Residence in Pine Forest",
+      "why_special": "Built in the 1920s by the Maharaja of Tripura, surrounded by towering pine trees with underground war bunkers and private art collection.",
+      "best_for": [
+        "couples",
+        "history-enthusiasts",
+        "music-lovers"
+      ],
+      "highlight_amenities": [
+        "Pine Forest Terrace",
+        "Rice Court Dining",
+        "Billiards Room"
+      ],
+      "booking_advice": "Ask for the rooms in the main castle wing for authentic teakwood ambiance.",
+      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹8,500 - ₹10,500 / night",
+      "food_available": true,
+      "food_details": "The Rice Court serving authentic Khasi & pan-Asian dishes",
+      "breakfast_available": true,
+      "breakfast_details": "Buffet breakfast with Meghalayan tea included",
+      "wifi_available": true,
+      "wifi_details": "High-speed Wi-Fi in heritage wings"
+    },
+    {
+      "id": "stay_meg_02",
+      "name": "Polo Orchid Cliffside Resort",
+      "circuit_id": "IN-MEG-01",
+      "destination": "Cherrapunjee",
+      "neighborhood": "Nohsngithiang Falls Gorge",
+      "price_tier": "luxury_heritage",
+      "approx_price_per_night_inr": 16500,
+      "vibe_tags": [
+        "mountain_serene",
+        "offbeat_cultural"
+      ],
+      "stay_type": "Cliff-edge Cloud Villa",
+      "why_special": "Direct view of the 7 Sister waterfalls cascading down into Bangladesh plains from your private balcony bathtub.",
+      "best_for": [
+        "honeymoon",
+        "couples",
+        "landscape-photographers"
+      ],
+      "highlight_amenities": [
+        "Infinity Deck over Valley",
+        "Open Air Plunge Pool",
+        "Sozhra Cafe"
+      ],
+      "booking_advice": "October to December offers the clearest gorge views and dramatic cloud formations.",
+      "image_url": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹15,000 - ₹18,000 / night",
+      "food_available": true,
+      "food_details": "Cliffside fine-dining restaurant with mist-shrouded gorge views",
+      "breakfast_available": true,
+      "breakfast_details": "Full continental and Indian buffet breakfast included",
+      "wifi_available": true,
+      "wifi_details": "Wi-Fi available in lobby and resort villas"
+    },
+    {
+      "id": "stay_meg_03",
+      "name": "Mawlynnong Bamboo Tree Homestay",
+      "circuit_id": "IN-MEG-01",
+      "destination": "Mawlynnong",
+      "neighborhood": "Village Core",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 3800,
+      "vibe_tags": [
+        "offbeat_cultural",
+        "forest_wildlife"
+      ],
+      "stay_type": "Woven Bamboo Eco-Cottage",
+      "why_special": "Stay with a Khasi family in Asia cleanest village; living in a home raised on stilts surrounded by blooming orchids.",
+      "best_for": [
+        "cultural-immersion",
+        "solo",
+        "nature-lovers"
+      ],
+      "highlight_amenities": [
+        "Organic Village Meals",
+        "Bamboo Skyview Deck",
+        "Local Guide Host"
+      ],
+      "booking_advice": "Have early dinner with the family to taste local red rice and wild herb chutney.",
+      "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹3,500 - ₹4,200 / night",
+      "food_available": true,
+      "food_details": "Homecooked indigenous Khasi meals with organic garden vegetables",
+      "breakfast_available": true,
+      "breakfast_details": "Local tea and steamed rice cakes breakfast included",
+      "wifi_available": false,
+      "wifi_details": "Digital detox / Basic mobile network only"
+    },
+    {
+      "id": "stay_kas_01",
+      "name": "Sukoon Luxury Heritage Houseboat",
+      "circuit_id": "IN-KAS-01",
+      "destination": "Srinagar",
+      "neighborhood": "Nigeen Lake",
+      "price_tier": "luxury_heritage",
+      "approx_price_per_night_inr": 26000,
+      "vibe_tags": [
+        "heritage_royal",
+        "slow_coastal"
+      ],
+      "stay_type": "Carved Cedar Wood Luxury Houseboat",
+      "why_special": "Located on the quiet and clean Nigeen Lake, away from the motorized commotion of Dal Lake. Pinewood sundeck with Zabarwan mountain views.",
+      "best_for": [
+        "honeymoon",
+        "couples",
+        "peace-seekers"
+      ],
+      "highlight_amenities": [
+        "Private Shikara Transfers",
+        "Rooftop Kahwa Lounge",
+        "Organic Kashmiri Wazwan"
+      ],
+      "booking_advice": "Enjoy breakfast on the sundeck at 7:30 AM while migratory waterfowl skim across the lotus pads.",
+      "image_url": "https://images.unsplash.com/photo-1598091383021-15ddea10925d?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹24,000 - ₹28,000 / night",
+      "food_available": true,
+      "food_details": "Traditional multi-course Wazwan feasts served on rooftop deck",
+      "breakfast_available": true,
+      "breakfast_details": "Gourmet Kashmiri Kahwa, girda bread & eggs included",
+      "wifi_available": true,
+      "wifi_details": "High-speed Wi-Fi on the cedar houseboat"
+    },
+    {
+      "id": "stay_kas_02",
+      "name": "Nigeen Pearl Traditional Boathouse",
+      "circuit_id": "IN-KAS-01",
+      "destination": "Srinagar",
+      "neighborhood": "Nigeen West Bank",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 5500,
+      "vibe_tags": [
+        "heritage_royal"
+      ],
+      "stay_type": "Vintage Khatamband Wooden Houseboat",
+      "why_special": "Intricate geometric Khatamband wood ceiling woodwork, antique Persian carpets, and personal host Haji Ghulam.",
+      "best_for": [
+        "solo",
+        "couples",
+        "culture-lovers"
+      ],
+      "highlight_amenities": [
+        "Woodstove Bukhari",
+        "Daily Hot Kashmiri Noon Chai",
+        "Shikara Pickup"
+      ],
+      "booking_advice": "Ask Haji sahib to arrange an early dawn shikara to the floating vegetable market.",
+      "image_url": "https://images.unsplash.com/photo-1598091383021-15ddea10925d?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹5,000 - ₹6,200 / night",
+      "food_available": true,
+      "food_details": "Homecooked Kashmiri Rogan Josh & Gushtaba prepared by family",
+      "breakfast_available": true,
+      "breakfast_details": "Fresh noon-chai & bakery tandoor bread included",
+      "wifi_available": true,
+      "wifi_details": "Free Wi-Fi available on boathouse deck"
+    },
+    {
+      "id": "stay_kas_03",
+      "name": "The Lidder Pine Chalet",
+      "circuit_id": "IN-KAS-01",
+      "destination": "Pahalgam",
+      "neighborhood": "Aru Valley Road",
+      "price_tier": "premium_charm",
+      "approx_price_per_night_inr": 12500,
+      "vibe_tags": [
+        "mountain_serene",
+        "forest_wildlife"
+      ],
+      "stay_type": "Alpine Log Cabin & Stone Cottage",
+      "why_special": "Sits right on the banks of the rushing turquoise Lidder river surrounded by wild pine forest. No commercial noise.",
+      "best_for": [
+        "couples",
+        "families",
+        "hikers"
+      ],
+      "highlight_amenities": [
+        "Riverfront Lawn",
+        "Log Fireplace in Every Suite",
+        "Trout Barbecue"
+      ],
+      "booking_advice": "Riverside suite #4 has direct French windows opening to the sound of the Lidder.",
+      "image_url": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹11,500 - ₹14,000 / night",
+      "food_available": true,
+      "food_details": "Riverside pine restaurant serving grilled trout & Kashmiri curries",
+      "breakfast_available": true,
+      "breakfast_details": "Himalayan breakfast with walnut honey included",
+      "wifi_available": true,
+      "wifi_details": "High-speed fiber Wi-Fi in chalet rooms"
+    },
+    {
+      "id": "stay_kas_04",
+      "name": "Highland Pine Lodge",
+      "circuit_id": "IN-KAS-01",
+      "destination": "Gulmarg",
+      "neighborhood": "Outer Circular Road",
+      "price_tier": "premium_charm",
+      "approx_price_per_night_inr": 14000,
+      "vibe_tags": [
+        "mountain_serene"
+      ],
+      "stay_type": "British Colonial Ski & Golf Bungalow",
+      "why_special": "Surrounded by giant fir trees overlooking the snow bowl. Vintage wooden bar, leather armchairs, and direct access to hiking tracks.",
+      "best_for": [
+        "couples",
+        "skiers",
+        "nature-walkers"
+      ],
+      "highlight_amenities": [
+        "Central Radiator Heating",
+        "Fireplace Reading Den",
+        "Ski Equipment Locker"
+      ],
+      "booking_advice": "Book well ahead for winter ski months (January to March).",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹13,000 - ₹15,500 / night",
+      "food_available": true,
+      "food_details": "Alpine dining lounge with heated Bukhari stoves",
+      "breakfast_available": true,
+      "breakfast_details": "Full hot buffet breakfast included",
+      "wifi_available": true,
+      "wifi_details": "High-speed Wi-Fi throughout lodge"
+    },
+    {
+      "id": "stay_lad_01",
+      "name": "The Grand Dragon Heritage Wing",
+      "circuit_id": "IN-LAD-01",
+      "destination": "Leh",
+      "neighborhood": "Sheynam Old Town",
+      "price_tier": "luxury_heritage",
+      "approx_price_per_night_inr": 18000,
+      "vibe_tags": [
+        "heritage_royal",
+        "mountain_serene"
+      ],
+      "stay_type": "Solar Powered Rawa Stone Palace",
+      "why_special": "Features handcrafted Ladakhi Rawa woodwork and double-glazed bay windows framing the Stok Kangri glacier range.",
+      "best_for": [
+        "acclimatization",
+        "couples",
+        "comfort-seekers"
+      ],
+      "highlight_amenities": [
+        "Oxygen Enriched Rooms",
+        "Rooftop Stargazing Deck",
+        "Traditional Ladakhi Dining"
+      ],
+      "booking_advice": "Spend Day 1 completely resting here with herbal ginger lemon honey tea to acclimatize to 11,500 ft.",
+      "image_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹16,500 - ₹19,500 / night",
+      "food_available": true,
+      "food_details": "Zasgyath dining hall serving Ladakhi Thukpa, Momos & Mughlai",
+      "breakfast_available": true,
+      "breakfast_details": "Extensive buffet breakfast with sea-buckthorn juice included",
+      "wifi_available": true,
+      "wifi_details": "High-speed fiber Wi-Fi throughout"
+    },
+    {
+      "id": "stay_lad_02",
+      "name": "Hunder Sand Dune Organic Retreat",
+      "circuit_id": "IN-LAD-01",
+      "destination": "Nubra Valley",
+      "neighborhood": "Hunder Village",
+      "price_tier": "premium_charm",
+      "approx_price_per_night_inr": 9800,
+      "vibe_tags": [
+        "mountain_serene",
+        "offbeat_cultural"
+      ],
+      "stay_type": "Apricot Orchard Eco Cottages",
+      "why_special": "Hidden inside a centuries-old apricot orchard fed by glacier streams, just 10 minutes from the cold white sand dunes.",
+      "best_for": [
+        "couples",
+        "stargazers",
+        "photographers"
+      ],
+      "highlight_amenities": [
+        "Orchard Dining",
+        "Telescope Stargazing Sessions",
+        "Fresh Apricot Jam"
+      ],
+      "booking_advice": "Late August to September is apricot harvest season; the trees are heavy with golden fruit.",
+      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹9,000 - ₹11,000 / night",
+      "food_available": true,
+      "food_details": "Organic vegetable farm kitchen with Ladakhi apricot desserts",
+      "breakfast_available": true,
+      "breakfast_details": "Fresh mountain breakfast with butter tea included",
+      "wifi_available": true,
+      "wifi_details": "Wi-Fi available during evening generator hours"
+    },
+    {
+      "id": "stay_lad_03",
+      "name": "Spangmik Lake Horizon Homestay",
+      "circuit_id": "IN-LAD-01",
+      "destination": "Pangong Tso",
+      "neighborhood": "Spangmik Village",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 6500,
+      "vibe_tags": [
+        "mountain_serene"
+      ],
+      "stay_type": "Insulated Eco-Glamping Dome",
+      "why_special": "Perched 300 meters above the indigo and turquoise waters of Pangong Lake with clear skylight roofs for night sky viewing.",
+      "best_for": [
+        "adventure-couples",
+        "photographers",
+        "stargazers"
+      ],
+      "highlight_amenities": [
+        "Insulated Geodesic Dome",
+        "Hot Water Bottles",
+        "Local Ladakhi Thukpa"
+      ],
+      "booking_advice": "Night temperatures drop near freezing even in July; pack thermal layers.",
+      "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹6,000 - ₹7,200 / night",
+      "food_available": true,
+      "food_details": "Hot homecooked Ladakhi lentil soup, rice & momos by lake",
+      "breakfast_available": true,
+      "breakfast_details": "Warm Ladakhi bread & hot ginger lemon tea included",
+      "wifi_available": false,
+      "wifi_details": "Remote lake location / No Wi-Fi (Stargazing focus)"
+    },
+    {
+      "id": "stay_bom_01",
+      "name": "Abode Bombay",
+      "circuit_id": "IN-BOM-01",
+      "destination": "Mumbai",
+      "neighborhood": "Colaba Heritage Quarter",
+      "price_tier": "premium_charm",
+      "approx_price_per_night_inr": 9500,
+      "vibe_tags": [
+        "bohemian_artistic",
+        "heritage_royal"
+      ],
+      "stay_type": "Restored Colonial Boutique Townhouse",
+      "why_special": "Tucked behind the historic Regal Cinema, featuring hand-crafted cement tiles, reclaimed Burma teak furniture, and an intimate rooftop tea nook.",
+      "best_for": [
+        "couples",
+        "design-lovers",
+        "solo",
+        "culture-enthusiasts"
+      ],
+      "highlight_amenities": [
+        "Artisanal Local Breakfast",
+        "Vintage Library Lounge",
+        "Walkable to Art Deco Promenade"
+      ],
+      "booking_advice": "Book the Luxury Room with original Art Deco French windows overlooking Lansdowne Road.",
+      "image_url": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹9,000 - ₹11,000 / night",
+      "food_available": true,
+      "food_details": "Artisanal cafe with locally sourced cheeses & Parsi snacks",
+      "breakfast_available": true,
+      "breakfast_details": "Gourmet Bombay street-inspired breakfast included",
+      "wifi_available": true,
+      "wifi_details": "High-speed fiber Wi-Fi in all rooms"
+    },
+    {
+      "id": "stay_bom_02",
+      "name": "The Mansion House Alibaug",
+      "circuit_id": "IN-BOM-01",
+      "destination": "Alibaug",
+      "neighborhood": "Sasawane Coastal Village",
+      "price_tier": "luxury_heritage",
+      "approx_price_per_night_inr": 18500,
+      "vibe_tags": [
+        "slow_coastal",
+        "bohemian_artistic"
+      ],
+      "stay_type": "Secluded Coastal Estate & Plunge Villas",
+      "why_special": "Spread across acres of private coconut groves with a central lap pool, breezy cabanas, and fresh coastal seafood dining.",
+      "best_for": [
+        "honeymoon",
+        "couples",
+        "relaxation"
+      ],
+      "highlight_amenities": [
+        "Private Pool Cabanas",
+        "Alfresco Coastal Dining",
+        "Direct Mandwa Ferry Pickup"
+      ],
+      "booking_advice": "Take the morning 10 AM private speedboat from Gateway of India for the smoothest harbor crossing.",
+      "image_url": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹17,000 - ₹20,000 / night",
+      "food_available": true,
+      "food_details": "Fine-dining pool pavilion serving fresh Konkan coastal thalis",
+      "breakfast_available": true,
+      "breakfast_details": "Alfresco poolside artisan breakfast included",
+      "wifi_available": true,
+      "wifi_details": "High-speed Wi-Fi in private villas and cabanas"
+    },
+    {
+      "id": "stay_bom_03",
+      "name": "Ranwar Heritage Villa Homestay",
+      "circuit_id": "IN-BOM-01",
+      "destination": "Mumbai",
+      "neighborhood": "Ranwar Village, Bandra West",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 4200,
+      "vibe_tags": [
+        "bohemian_artistic",
+        "offbeat_cultural"
+      ],
+      "stay_type": "19th-Century Portuguese-Goan Heritage Cottage",
+      "why_special": "Hidden in the quiet graffiti-lined pedestrian alleys of Ranwar village with terracotta floors, high timber rafters, and homecooked Parsi/East Indian breakfasts.",
+      "best_for": [
+        "couples",
+        "solo",
+        "culture-enthusiasts",
+        "budget-travelers"
+      ],
+      "highlight_amenities": [
+        "Private Veranda Garden",
+        "Handcrafted East Indian Breakfast",
+        "Walkable to Indie Cafes & Promenade"
+      ],
+      "booking_advice": "Request Room 2 facing the mango courtyard for quiet mornings.",
+      "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹4,000 - ₹4,800 / night",
+      "food_available": true,
+      "food_details": "Homecooked East Indian fish curry & vindaloo on order",
+      "breakfast_available": true,
+      "breakfast_details": "Traditional Parsi akuri and fresh pao breakfast included",
+      "wifi_available": true,
+      "wifi_details": "High-speed fiber Wi-Fi (workation ready)"
+    },
+    {
+      "id": "stay_bom_04",
+      "name": "Awas Coconut Grove Coastal Cottage",
+      "circuit_id": "IN-BOM-01",
+      "destination": "Alibaug",
+      "neighborhood": "Awas Beach, North Alibaug",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 4500,
+      "vibe_tags": [
+        "slow_coastal",
+        "offbeat_cultural"
+      ],
+      "stay_type": "Konkani Red-Stone Garden Cottage",
+      "why_special": "Tucked inside a private 2-acre betelnut and coconut orchard 400 meters from quiet Awas beach with homecooked Malvani seafood thalis.",
+      "best_for": [
+        "couples",
+        "slow-travelers",
+        "budget-travelers"
+      ],
+      "highlight_amenities": [
+        "Private Hammocks",
+        "Homecooked Malvani Kitchen",
+        "Bicycle Rentals to Beach"
+      ],
+      "booking_advice": "Ask for the corner veranda cottage for uninterrupted coastal breeze.",
+      "image_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹4,200 - ₹5,000 / night",
+      "food_available": true,
+      "food_details": "Authentic coastal Malvani seafood thali with sol kadhi",
+      "breakfast_available": true,
+      "breakfast_details": "Fresh coconut water & coastal poha breakfast included",
+      "wifi_available": true,
+      "wifi_details": "Wi-Fi available in garden orchard veranda"
+    },
+    {
+      "id": "stay_raj_04",
+      "name": "Rabari Leopard Ridge Homestay",
+      "circuit_id": "IN-RAJ-01",
+      "destination": "Jawai",
+      "neighborhood": "Bera Granite Hills",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 4600,
+      "vibe_tags": [
+        "forest_wildlife",
+        "offbeat_cultural"
+      ],
+      "stay_type": "Rabari Shepherd Mud-Plastered Cottages",
+      "why_special": "Run by an elder shepherd family right at the base of the Jawai granite boulders with campfire chai and morning leopard tracking walks.",
+      "best_for": [
+        "couples",
+        "wildlife-lovers",
+        "budget-travelers"
+      ],
+      "highlight_amenities": [
+        "Campfire Chai Nook",
+        "Local Tracker Walks",
+        "Homecooked Rajasthani Thali"
+      ],
+      "booking_advice": "Request the mud cottage with the roof viewpoint over the granite kopjes.",
+      "image_url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹4,200 - ₹5,000 / night",
+      "food_available": true,
+      "food_details": "Traditional Rabari campfire cooking with Bajra rotla & garlic chutney",
+      "breakfast_available": true,
+      "breakfast_details": "Fresh cow milk chai & hot parathas breakfast included",
+      "wifi_available": true,
+      "wifi_details": "Wi-Fi available at main shepherd homestead"
+    },
+    {
+      "id": "stay_ker_05",
+      "name": "Princess Street Heritage Arts Homestay",
+      "circuit_id": "IN-KER-01",
+      "destination": "Fort Kochi",
+      "neighborhood": "Princess Street Quarter",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 4200,
+      "vibe_tags": [
+        "bohemian_artistic",
+        "offbeat_cultural"
+      ],
+      "stay_type": "Restored Dutch-Colonial Townhouse",
+      "why_special": "High ceilings, antique poster beds, and courtyard frangipani trees, run by a local artist within walking distance of the Chinese fishing nets.",
+      "best_for": [
+        "couples",
+        "solo",
+        "budget-travelers"
+      ],
+      "highlight_amenities": [
+        "Courtyard Garden",
+        "Kerala Cardamom Tea",
+        "Art Books Library"
+      ],
+      "booking_advice": "Room 1 on the first floor has a private wood-shuttered balcony.",
+      "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹4,000 - ₹4,800 / night",
+      "food_available": true,
+      "food_details": "Homecooked Kerala fish curry and vegetarian Sadya on order",
+      "breakfast_available": true,
+      "breakfast_details": "Idiyappam with coconut milk breakfast included",
+      "wifi_available": true,
+      "wifi_details": "High-speed fiber Wi-Fi in artist rooms"
+    },
+    {
+      "id": "stay_kas_05",
+      "name": "Aru Valley Cedar Homestay",
+      "circuit_id": "IN-KAS-01",
+      "destination": "Pahalgam",
+      "neighborhood": "Aru Alpine Meadow",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 4500,
+      "vibe_tags": [
+        "mountain_serene",
+        "offbeat_cultural"
+      ],
+      "stay_type": "Handcrafted Deodar Pine Homestay",
+      "why_special": "12 km up the valley from commercial Pahalgam, overlooking sheep meadows and snow-dusted pine ridges with woodfire Bukhari heating.",
+      "best_for": [
+        "couples",
+        "nature-lovers",
+        "budget-travelers"
+      ],
+      "highlight_amenities": [
+        "Woodfire Bukhari",
+        "Fresh Kahwa on Arrival",
+        "Direct Meadow Trails"
+      ],
+      "booking_advice": "Book directly for homecooked Kashmiri Haak and Nadru meals.",
+      "image_url": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹4,200 - ₹5,000 / night",
+      "food_available": true,
+      "food_details": "Warm Kashmiri home kitchen serving Haak & Nadru Yakhni",
+      "breakfast_available": true,
+      "breakfast_details": "Kahwa with freshly baked local rotis included",
+      "wifi_available": true,
+      "wifi_details": "Wi-Fi available in pine dining area"
+    },
+    {
+      "id": "stay_lad_04",
+      "name": "Stok Village Organic Farmstead",
+      "circuit_id": "IN-LAD-01",
+      "destination": "Leh",
+      "neighborhood": "Stok Heritage Village",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 4800,
+      "vibe_tags": [
+        "offbeat_cultural",
+        "mountain_serene"
+      ],
+      "stay_type": "Traditional Ladakhi Mud-Brick Farmhouse",
+      "why_special": "Away from Leh market buzz, surrounded by barley fields and apricot trees with views of Stok Kangri peak and solar-warmed herbal teas.",
+      "best_for": [
+        "couples",
+        "culture-enthusiasts",
+        "budget-travelers"
+      ],
+      "highlight_amenities": [
+        "Traditional Ladakhi Kitchen Dining",
+        "Apricot Orchard Veranda",
+        "Rooftop Stargazing Mattresses"
+      ],
+      "booking_advice": "Ask the host Stanzin to show you the 200-year-old family prayer room.",
+      "image_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹4,500 - ₹5,500 / night",
+      "food_available": true,
+      "food_details": "Traditional family kitchen with barley tsampa & wild mint soup",
+      "breakfast_available": true,
+      "breakfast_details": "Ladakhi Khambir bread & apricot butter included",
+      "wifi_available": true,
+      "wifi_details": "Wi-Fi available in main farmhouse"
+    },
+    {
+      "id": "stay_meg_04",
+      "name": "Sohra Rim Khasi Heritage Homestay",
+      "circuit_id": "IN-MEG-01",
+      "destination": "Cherrapunjee",
+      "neighborhood": "Sohra Old Village",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 3900,
+      "vibe_tags": [
+        "forest_wildlife",
+        "offbeat_cultural"
+      ],
+      "stay_type": "Limestone & Pine Khasi Cottage",
+      "why_special": "Perched on a quiet mist-covered limestone ridge overlooking Bangladesh plains, with farm-to-table organic bamboo shoot dinners.",
+      "best_for": [
+        "nature-lovers",
+        "couples",
+        "budget-travelers"
+      ],
+      "highlight_amenities": [
+        "Mist View Terrace",
+        "Organic Khasi Meals",
+        "Guide for Secret Living Root Bridges"
+      ],
+      "booking_advice": "Bring warm fleece for cool evening mist.",
+      "image_url": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹3,600 - ₹4,400 / night",
+      "food_available": true,
+      "food_details": "Farm-to-table organic Khasi chicken curry & red rice dinners",
+      "breakfast_available": true,
+      "breakfast_details": "Wild honey, pancakes & Meghalaya tea included",
+      "wifi_available": false,
+      "wifi_details": "Digital detox / Peaceful nature immersion"
+    },
+    {
+      "id": "stay_goa_04",
+      "name": "Afonsinho Heritage Studio B&B",
+      "circuit_id": "IN-GOA-01",
+      "destination": "Fontainhas",
+      "neighborhood": "Latin Quarter, Panjim",
+      "price_tier": "boutique_budget",
+      "approx_price_per_night_inr": 4400,
+      "vibe_tags": [
+        "bohemian_artistic",
+        "offbeat_cultural"
+      ],
+      "stay_type": "Indigo-Washed Portuguese Heritage Studio",
+      "why_special": "Charming pastel-yellow shuttered windows in the heart of Fontainhas, steps away from Confeitaria 31 de Janeiro and jazz bars.",
+      "best_for": [
+        "couples",
+        "solo",
+        "budget-travelers"
+      ],
+      "highlight_amenities": [
+        "Oyster Shell Windows",
+        "Artisan Goan Breakfast",
+        "Walkable to Heritage Cafes"
+      ],
+      "booking_advice": "Wake up early for morning photography before tourists arrive.",
+      "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+      "price_range": "₹4,200 - ₹5,000 / night",
+      "food_available": false,
+      "food_details": "Walkable to 15+ award-winning Latin Quarter bistros and cafes",
+      "breakfast_available": true,
+      "breakfast_details": "Warm Goan bakery croissants and fruit bowl included",
+      "wifi_available": true,
+      "wifi_details": "High-speed Wi-Fi in studio"
+    }
+  ],
+  "activities": [
+    {
+      "id": "act_raj_01",
+      "destination": "Udaipur",
+      "circuit_id": "IN-RAJ-01",
+      "title": "Private Wooden Boat Ride to Hidden Ghats",
+      "time_slot": "sunset",
+      "duration_hours": 1.5,
+      "pace_suitability": [
+        "leisure",
+        "balanced"
+      ],
+      "category": "nature_walk",
+      "description": "Escape crowded ferry boats with a slow wooden hand-rowed boat gliding past Gangaur Ghat and bathing steps as evening lamps light up.",
+      "insider_tip": "Ask boatman Kanhaiya to steer towards the rear walls of Jagmandir Island for serene reflections.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_raj_02",
+      "destination": "Udaipur",
+      "circuit_id": "IN-RAJ-01",
+      "title": "Master Artisan Miniature Painting Atelier Walk",
+      "time_slot": "morning",
+      "duration_hours": 2.0,
+      "pace_suitability": [
+        "balanced",
+        "explorer"
+      ],
+      "category": "artisan_craft",
+      "description": "Visit a 4th-generation royal court painter home studio. Watch natural stone ground pigments (lapis lazuli, malachite) applied with squirrel brushes.",
+      "insider_tip": "You can try painting your own small postcard motif using natural stone gold leaf under guidance.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_raj_03",
+      "destination": "Jawai",
+      "circuit_id": "IN-RAJ-01",
+      "title": "Granite Boulder Leopard Tracking with Rabari Shepherds",
+      "time_slot": "morning",
+      "duration_hours": 3.0,
+      "pace_suitability": [
+        "balanced",
+        "explorer"
+      ],
+      "category": "nature_walk",
+      "description": "Dawn drive in an open 4x4 across ancient granite monoliths with local tracker elders who read paw prints without fences or cage barriers.",
+      "insider_tip": "Dress in khaki or earthy greens; mornings on the granite rocks can get chilly before 8 AM.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_raj_04",
+      "destination": "Jodhpur",
+      "circuit_id": "IN-RAJ-01",
+      "title": "Blue City Secret Rooftops & Brahmin Quarter Walk",
+      "time_slot": "morning",
+      "duration_hours": 2.5,
+      "pace_suitability": [
+        "leisure",
+        "balanced",
+        "explorer"
+      ],
+      "category": "architecture",
+      "description": "Navigate the quiet indigo maze of Navchokiya behind Mehrangarh Fort. Learn why houses were painted with copper sulfate indigo wash.",
+      "insider_tip": "Ends with a tasting of hot Mirchi Vada fresh from the local woodfire cauldron at a 70-year-old lane stall.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_raj_05",
+      "destination": "Jodhpur",
+      "circuit_id": "IN-RAJ-01",
+      "title": "Rao Jodha Desert Rock Park Sunset Hike",
+      "time_slot": "sunset",
+      "duration_hours": 2.0,
+      "pace_suitability": [
+        "balanced",
+        "explorer"
+      ],
+      "category": "nature_walk",
+      "description": "Walk through restored volcanic rhyolite rock gorges beneath Mehrangarh fort with an indigenous botanist seeing desert shrubs in bloom.",
+      "insider_tip": "The sunset from the Singhoria Hill outpost looks out across the vast Thar desert horizon.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_ker_01",
+      "destination": "Fort Kochi",
+      "circuit_id": "IN-KER-01",
+      "title": "Bazaar Spice Heritage & Antique Docks Walking Trail",
+      "time_slot": "morning",
+      "duration_hours": 2.0,
+      "pace_suitability": [
+        "leisure",
+        "balanced"
+      ],
+      "category": "artisan_craft",
+      "description": "Wander through Mattancherry ginger and cardamom warehouse alleys, visiting Dutch Palace murals and a secret Jewish bakery.",
+      "insider_tip": "Stop at the small perfume blending attar shop behind the synagogue for pure natural sandalwood oil.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_ker_02",
+      "destination": "Munnar",
+      "circuit_id": "IN-KER-01",
+      "title": "Chokramudi Foothills High-Altitude Tea Walk",
+      "time_slot": "morning",
+      "duration_hours": 3.0,
+      "pace_suitability": [
+        "balanced",
+        "explorer"
+      ],
+      "category": "nature_walk",
+      "description": "Trek through high-altitude organic tea slopes above 6,000 feet, learning single-estate tea picking followed by a private tea cupping session.",
+      "insider_tip": "Clouds usually sweep up by 11:30 AM; start by 7:30 AM for razor-sharp views of the Anamudi peaks.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_ker_03",
+      "destination": "Marari",
+      "circuit_id": "IN-KER-01",
+      "title": "Country Canoe Cruise Through Shallow Lotus Canals",
+      "time_slot": "sunset",
+      "duration_hours": 2.0,
+      "pace_suitability": [
+        "leisure",
+        "balanced"
+      ],
+      "category": "nature_walk",
+      "description": "Board an authentic wooden country canoe punted with bamboo poles through shallow village canals where kingfishers hunt.",
+      "insider_tip": "Fresh tender coconut water served on board from palms plucked right beside the canal bank.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_him_01",
+      "destination": "Tirthan Valley",
+      "circuit_id": "IN-HIM-01",
+      "title": "Gentle Chhoie Cedar Forest Waterfall Hike",
+      "time_slot": "morning",
+      "duration_hours": 2.5,
+      "pace_suitability": [
+        "leisure",
+        "balanced"
+      ],
+      "category": "nature_walk",
+      "description": "A shaded trail through towering Himalayan deodar and pine trees leading to a secluded sacred waterfall pool revered by locals.",
+      "insider_tip": "Pack water-resistant sandals; the shallow pool at the bottom is crystal clear and safe for wading.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_him_02",
+      "destination": "Jibhi",
+      "circuit_id": "IN-HIM-01",
+      "title": "Chaini Kothi 17th-Century Fortress Tower Discovery",
+      "time_slot": "afternoon",
+      "duration_hours": 3.0,
+      "pace_suitability": [
+        "balanced",
+        "explorer"
+      ],
+      "category": "architecture",
+      "description": "Walk through quiet apple orchards to visit a 50-meter-tall interlocking wooden tower built without cement.",
+      "insider_tip": "Local village women often offer fresh hand-churned apple chutney and herbal Rhododendron tea along the stone path.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_him_03",
+      "destination": "Naggar",
+      "circuit_id": "IN-HIM-01",
+      "title": "Nicholas Roerich Himalayan Art & Heritage Wood Carving Tour",
+      "time_slot": "morning",
+      "duration_hours": 2.0,
+      "pace_suitability": [
+        "leisure",
+        "balanced"
+      ],
+      "category": "artisan_craft",
+      "description": "Explore the Russian painter mountain estate overlooking Kullu valley, followed by a visit to master woodcarvers shaping temple deities.",
+      "insider_tip": "The estate cafe serves organic apple pies baked fresh every morning at 10 AM.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_goa_01",
+      "destination": "Fontainhas",
+      "circuit_id": "IN-GOA-01",
+      "title": "Artisanal Portuguese Bakery & Feni Sommelier Tasting",
+      "time_slot": "evening",
+      "duration_hours": 2.0,
+      "pace_suitability": [
+        "leisure",
+        "balanced"
+      ],
+      "category": "culinary",
+      "description": "Sample fresh warm Pastéis de Nata and Poee at an 80-year-old bakery, followed by single-tree cashew feni paired with local cheese.",
+      "insider_tip": "Ask the sommelier to demonstrate the traditional glass test for feni proof.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_goa_02",
+      "destination": "Aldona",
+      "circuit_id": "IN-GOA-01",
+      "title": "Kayaking Through Mangrove Tributaries of the Mapusa River",
+      "time_slot": "morning",
+      "duration_hours": 2.5,
+      "pace_suitability": [
+        "leisure",
+        "balanced",
+        "explorer"
+      ],
+      "category": "nature_walk",
+      "description": "Glide in tandem kayaks beneath mangrove canopies where white-collared kingfishers and herons feed in complete silence.",
+      "insider_tip": "Zero boat engine noise; perfect for peace lovers and beginners who have never kayaked before.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_meg_01",
+      "destination": "Cherrapunjee",
+      "circuit_id": "IN-MEG-01",
+      "title": "Double Decker Living Root Bridge & Blue Lagoon Trek",
+      "time_slot": "morning",
+      "duration_hours": 5.0,
+      "pace_suitability": [
+        "explorer"
+      ],
+      "category": "nature_walk",
+      "description": "Descend 3,000 stone stairs to the biological wonder of Nongriat: rubber fig tree roots intertwined over centuries by Khasi ancestors.",
+      "insider_tip": "Bring a bamboo walking stick from Tyrna village; take a swim in the turquoise natural spring pool.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_meg_02",
+      "destination": "Shillong",
+      "circuit_id": "IN-MEG-01",
+      "title": "Mawphlang Sacred Forest Indigenous Walk",
+      "time_slot": "afternoon",
+      "duration_hours": 2.0,
+      "pace_suitability": [
+        "leisure",
+        "balanced"
+      ],
+      "category": "nature_walk",
+      "description": "Walk among 800-year-old moss-carpeted trees with a native Khasi elder. Ancient sacred law protects every tree and leaf.",
+      "insider_tip": "Look for rare carnivorous pitcher plants and orchids growing wild on century-old trunks.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_kas_01",
+      "destination": "Srinagar",
+      "circuit_id": "IN-KAS-01",
+      "title": "Silent Dawn Shikara to the Floating Lotus Market",
+      "time_slot": "morning",
+      "duration_hours": 2.0,
+      "pace_suitability": [
+        "leisure",
+        "balanced"
+      ],
+      "category": "nature_walk",
+      "description": "Depart at 5:45 AM when mist blankets Nigeen Lake. Watch vegetable growers barter freshly plucked nadru (lotus stems) and water chestnuts from wooden canoes.",
+      "insider_tip": "Sip steaming hot saffron kahwa poured from a copper samovar on your shikara while the lake wakes up.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_kas_02",
+      "destination": "Pahalgam",
+      "circuit_id": "IN-KAS-01",
+      "title": "Aru Valley Wild Pine Forest & Gujjar Hut Trail",
+      "time_slot": "morning",
+      "duration_hours": 3.5,
+      "pace_suitability": [
+        "balanced",
+        "explorer"
+      ],
+      "category": "nature_walk",
+      "description": "Trek gently along the upper Lidder stream into emerald alpine meadows where nomadic Gujjar shepherds graze their sheep.",
+      "insider_tip": "Stop at a nomadic mud-and-log hut for fresh buttermilk and maize bread roasted on pine wood coals.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_kas_03",
+      "destination": "Gulmarg",
+      "circuit_id": "IN-KAS-01",
+      "title": "Apharwat Ridge Cloud-Walk & Khilanmarg Meadow Walk",
+      "time_slot": "afternoon",
+      "duration_hours": 3.0,
+      "pace_suitability": [
+        "balanced",
+        "explorer"
+      ],
+      "category": "nature_walk",
+      "description": "Ride Phase 2 above the tree line to 13,780 feet for panoramic views of Nanga Parbat and Pir Panjal glaciers.",
+      "insider_tip": "Carry sunglasses and high SPF sunblock; UV intensity on high snow meadows is strong even on cloudy afternoons.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_lad_01",
+      "destination": "Leh",
+      "circuit_id": "IN-LAD-01",
+      "title": "Thiksey Monastery Sunrise Morning Puja Chants",
+      "time_slot": "morning",
+      "duration_hours": 2.5,
+      "pace_suitability": [
+        "leisure",
+        "balanced"
+      ],
+      "category": "artisan_craft",
+      "description": "Climb the 12-story hilltop monastery at 6:00 AM to hear monk conch shells resound across the Indus valley and join morning butter tea prayers.",
+      "insider_tip": "Sit quietly along the left wall of the main prayer hall; monks welcome respectful observers.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_lad_02",
+      "destination": "Nubra Valley",
+      "circuit_id": "IN-LAD-01",
+      "title": "Diskit Maitreya Buddha & Cold Sand Dunes Camel Trail",
+      "time_slot": "sunset",
+      "duration_hours": 2.5,
+      "pace_suitability": [
+        "leisure",
+        "balanced"
+      ],
+      "category": "nature_walk",
+      "description": "Visit the 106-foot golden Buddha statue overlooking the confluence of Nubra and Shyok rivers, then wander through the silver sand dunes of Hunder.",
+      "insider_tip": "Walk 1 km past where camel rides congregate to find pristine wind-rippled dunes with zero footprints.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_lad_03",
+      "destination": "Pangong Tso",
+      "circuit_id": "IN-LAD-01",
+      "title": "Lakeside Dark Sky Milky Way Photography Session",
+      "time_slot": "evening",
+      "duration_hours": 2.0,
+      "pace_suitability": [
+        "leisure",
+        "balanced",
+        "explorer"
+      ],
+      "category": "nature_walk",
+      "description": "At 14,270 feet with zero light pollution, step out to see the Milky Way arching directly over the ink-black waters of the Himalayan lake.",
+      "insider_tip": "Bring a lightweight travel tripod; 15-second exposures at f/2.8 will capture stunning galactic core detail.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_bom_01",
+      "destination": "Mumbai",
+      "circuit_id": "IN-BOM-01",
+      "title": "Oval Maidan & Marine Drive Art Deco Architectural Walk",
+      "time_slot": "sunset",
+      "duration_hours": 2.0,
+      "pace_suitability": [
+        "leisure",
+        "balanced"
+      ],
+      "category": "architecture",
+      "description": "Stroll through the world second largest concentration of Art Deco buildings with a heritage conservation architect as the sun sets over the Arabian Sea.",
+      "insider_tip": "End the walk with fresh coconut water at the quiet southern end of Marine Drive near Nariman Point.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_bom_02",
+      "destination": "Mumbai",
+      "circuit_id": "IN-BOM-01",
+      "title": "Sassoon Docks Dawn Koli Fisherfolk Walk",
+      "time_slot": "morning",
+      "duration_hours": 2.0,
+      "pace_suitability": [
+        "balanced",
+        "explorer"
+      ],
+      "category": "nature_walk",
+      "description": "Witness the 145-year-old stone dock at 6:30 AM when traditional Koli fishing trawlers unload fresh catch and auction fish amidst sea spray.",
+      "insider_tip": "Wear closed waterproof shoes; photography of colorful trawlers against the sunrise is exceptional.",
+      "is_offbeat": true
+    },
+    {
+      "id": "act_bom_03",
+      "destination": "Alibaug",
+      "circuit_id": "IN-BOM-01",
+      "title": "Coastal Village Bicycling & Kolaba Sea Fort Canoe Trail",
+      "time_slot": "morning",
+      "duration_hours": 2.5,
+      "pace_suitability": [
+        "leisure",
+        "balanced"
+      ],
+      "category": "nature_walk",
+      "description": "Cycle through sleepy Konkan hamlets lined with betel nut trees to an ancient 17th-century island fortress surrounded by Arabian waves.",
+      "insider_tip": "At low tide, you can walk or take a traditional wooden horse cart across the wet beach sand directly to the fort gate.",
+      "is_offbeat": true
+    }
+  ],
+  "dining": [
+    {
+      "id": "dine_raj_01",
+      "destination": "Udaipur",
+      "name": "Ambrai at Amet Haveli",
+      "cuisine_type": "Mewari & Mughlai",
+      "vibe": "Waterfront candlelit dining facing illuminated City Palace",
+      "must_try": "Mewari Laal Maas with Bajra Roti and Ker Sangri",
+      "price_for_two_inr": 3200
+    },
+    {
+      "id": "dine_raj_02",
+      "destination": "Jodhpur",
+      "name": "Darikhana at RAAS",
+      "cuisine_type": "Contemporary Rajasthani",
+      "vibe": "Open terrace directly under Mehrangarh fort cliffs",
+      "must_try": "Safed Maas with saffron pillau and Jodhpur Dahi Kebab",
+      "price_for_two_inr": 3800
+    },
+    {
+      "id": "dine_ker_01",
+      "destination": "Fort Kochi",
+      "name": "The History Restaurant",
+      "cuisine_type": "Syrian Christian & Anglo-Indian",
+      "vibe": "Colonial nautical dining with maritime artifacts",
+      "must_try": "Chappath fish curry and Anglo-Indian Railway Mutton Curry",
+      "price_for_two_inr": 2800
+    },
+    {
+      "id": "dine_ker_02",
+      "destination": "Marari",
+      "name": "Harbour Fisherman Shack",
+      "cuisine_type": "Coastal Malabar",
+      "vibe": "Barefoot sandy seating under thatched palm shelter",
+      "must_try": "Catch of the day grilled in banana leaf with shallot chili paste",
+      "price_for_two_inr": 1200
+    },
+    {
+      "id": "dine_him_01",
+      "destination": "Tirthan Valley",
+      "name": "Raju Trout Hearth",
+      "cuisine_type": "Himachali Pahadi",
+      "vibe": "Woodstove community dining table",
+      "must_try": "Fresh pan-fried brown river trout with local wild herbs and siddu",
+      "price_for_two_inr": 1400
+    },
+    {
+      "id": "dine_goa_01",
+      "destination": "Fontainhas",
+      "name": "Viva Panjim",
+      "cuisine_type": "Traditional Goan-Portuguese",
+      "vibe": "Cozy family home veranda in narrow heritage alley",
+      "must_try": "Prawn Balchão, Pork Vindaloo, and homemade Bebinca",
+      "price_for_two_inr": 1600
+    },
+    {
+      "id": "dine_meg_01",
+      "destination": "Shillong",
+      "name": "Dylan Cafe & Trattoria",
+      "cuisine_type": "Khasi fusion & slow coffee",
+      "vibe": "Tribute to Bob Dylan with vinyl records, indie music, and pine views",
+      "must_try": "Smoked pork with bamboo shoot and artisanal hot chocolate",
+      "price_for_two_inr": 1400
+    },
+    {
+      "id": "dine_kas_01",
+      "destination": "Srinagar",
+      "name": "Ahdoos Heritage 1918",
+      "cuisine_type": "Traditional Kashmiri Wazwan",
+      "vibe": "Historic riverside dining hall overlooking Jhelum",
+      "must_try": "Gushtaba, Rista, and Tabak Maaz simmered in fennel yogurt",
+      "price_for_two_inr": 2200
+    },
+    {
+      "id": "dine_kas_02",
+      "destination": "Pahalgam",
+      "name": "Trout Beat Riverside Cafe",
+      "cuisine_type": "Pahadi & Continental",
+      "vibe": "Wooden deck perched over rushing Lidder rapids",
+      "must_try": "Pan-grilled almond crusted rainbow trout with garlic butter mash",
+      "price_for_two_inr": 1600
+    },
+    {
+      "id": "dine_lad_01",
+      "destination": "Leh",
+      "name": "The Tibetan Kitchen",
+      "cuisine_type": "Tibetan & Ladakhi",
+      "vibe": "Traditional earthen seating under apricot tree canopy",
+      "must_try": "Hand-rolled Tingmo buns with spicy shapta beef/paneer and Mokthuk soup",
+      "price_for_two_inr": 1300
+    },
+    {
+      "id": "dine_bom_01",
+      "destination": "Mumbai",
+      "name": "Britannia & Co. (Est. 1923)",
+      "cuisine_type": "Parsi & Irani Heritage",
+      "vibe": "Historic high-ceiling cafe with antique bentwood chairs and vintage grandfather clocks",
+      "must_try": "Famous Mutton Berry Pulao with barberries, Sali Boti, and Caramel Custard",
+      "price_for_two_inr": 1400
+    },
+    {
+      "id": "dine_bom_02",
+      "destination": "Mumbai",
+      "name": "Trishna Seafood",
+      "cuisine_type": "Mangalorean & Coastal Maharashtrian",
+      "vibe": "Cozy retro culinary landmark in Kala Ghoda",
+      "must_try": "Butter Pepper Garlic King Crab with Neer Dosa",
+      "price_for_two_inr": 2800
+    }
+  ]
+}
